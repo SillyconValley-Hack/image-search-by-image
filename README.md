@@ -5,4 +5,5 @@
 3. [安裝對應版本的driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 4. [安裝Katalon Recorder](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
 5. 安裝selenium
-- pip install selenium
+
+    pip install selenium
